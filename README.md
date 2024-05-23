@@ -15,7 +15,9 @@ Version 0.1 (always non-production) (updates will be infrequent and sporadic))
 Written by - Adam Compton (@tatanus)
 
 Requirements:
-- Python 3.x (probably 3.10+)
+- Python 3.x (probably 3.10+) **CURRENTLY BROKEN in Python3.12**
+- Python libraries: requests, paramiko, pycryptodome
+- 
 
 Links:
  - Blog Post regarding BabyC2 can be found here: XXX
@@ -37,7 +39,5 @@ Future work:
  - AV evasion
  - socks proxy
  - peer-to-peer
- - 
-- 
 
 **Special thanks:**
